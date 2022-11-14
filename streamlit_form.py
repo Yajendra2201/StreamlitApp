@@ -44,7 +44,7 @@ if submitted:
         
         ''')
 else:
-    st.write('Firse bharo beta')
+    st.write('Pehle form bharo fir aana')
 
 
      
